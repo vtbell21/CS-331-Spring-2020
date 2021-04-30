@@ -1,0 +1,22 @@
+test set results: 
+predicted positive: 0
+predicted negative: 0
+actual positives: 246
+actual negatives: 251
+correctly predicted positives: 0
+correctly predicted negatives: 0
+positive accuracy: 0
+negative accuracy: 0
+total accuracy: 0
+
+training set results: 
+predicted positive: 0
+predicted negative: 0
+actual positives: 254
+actual negatives: 245
+correctly predicted positives: 0
+correctly predicted negatives: 0
+positive accuracy: 0
+negative accuracy: 0
+total accuracy: 0
+
